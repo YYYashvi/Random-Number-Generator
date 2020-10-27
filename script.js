@@ -1,4 +1,3 @@
-alert("hello");
 function Yashvi(){
 	var random= Math.floor(Math.random() * 32);
 	console.log(random);
